@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
 
 # Install dependencies
 sudo apt install -y wget bzip2

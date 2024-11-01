@@ -1,13 +1,12 @@
 #!/bin/bash
 
 # Update package list and install snap if not installed
-sudo apt install -y snapd
 
 # Install PyCharm Community Edition
-sudo snap install pycharm-community --classic
+sudo snap install -y pycharm-community --classic
 
 # Install PyCharm Edu
-sudo snap install pycharm-educational --classic
+sudo snap install -y pycharm-educational --classic
 
 # Verify installations
 if snap list | grep -q pycharm-community; then

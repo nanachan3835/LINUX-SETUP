@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
 
 # Install Wireshark and Nmap
 sudo apt install -y wireshark nmap

@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
 
 # Install prerequisites
 sudo apt install -y curl wget unzip
