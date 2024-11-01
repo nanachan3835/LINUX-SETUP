@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Update package list and install dependencies
-sudo apt update
+# Update package list and install dependencie
 sudo apt install -y wget apt-transport-https
 
 # Download the latest Google Chrome .deb package

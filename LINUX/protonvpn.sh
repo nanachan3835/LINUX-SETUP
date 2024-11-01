@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
-
 # Install required dependencies
 sudo apt install -y wget apt-transport-https
 

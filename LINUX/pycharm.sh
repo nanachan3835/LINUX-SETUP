@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list and install snap if not installed
-sudo apt update
 sudo apt install -y snapd
 
 # Install PyCharm Community Edition

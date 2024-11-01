@@ -1,8 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
-
 # Install wget if not already installed
 sudo apt install -y wget
 

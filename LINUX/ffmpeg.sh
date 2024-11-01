@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
 
 # Install FFmpeg
 sudo apt install -y ffmpeg

@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list and install dependencies
-sudo apt update
 sudo apt install -y wget gpg
 
 # Download the Insomnia .deb package
