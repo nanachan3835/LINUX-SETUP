@@ -1,7 +1,6 @@
 #!/bin/bash
 
 # Update package list
-sudo apt update
 
 # Install dependencies
 sudo apt install -y software-properties-common
@@ -21,3 +20,17 @@ if command -v wine > /dev/null; then
 else
     echo "Wine installation failed."
 fi
+
+
+sudo dpkg --add-architecture i386
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:wine/wine-builds
+sudo apt update
+
+sudo apt install winetricks
+
+
+
+wintricks dotnet45 dotnet48 dotnet6  dotnetcoredestop3 dotnetcoredesktop6 dotnetcore3
+
+winetricks corefonts vcrun2013 
