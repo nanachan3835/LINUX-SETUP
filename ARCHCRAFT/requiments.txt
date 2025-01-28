@@ -34,3 +34,4 @@ Dựa trên tên các tệp trong hình ảnh, dưới đây là danh sách các
 32. Podman 
 
 Các tệp `.sh` có thể là các tập lệnh cài đặt hoặc cấu hình cho các ứng dụng và công cụ tương ứng.
+nhớ cài đặt thêm các database như mysql potgress và mongo + redis
