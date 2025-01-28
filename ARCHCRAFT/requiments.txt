@@ -1,0 +1,36 @@
+Dựa trên tên các tệp trong hình ảnh, dưới đây là danh sách các ứng dụng và công cụ được liệt kê:
+
+1. Anaconda
+2. Arduino IDE
+3. Discord
+4. Docker
+5. FFmpeg
+6. GIMP
+7. Git
+8. Go (Golang)
+9. Google (có thể là trình duyệt hoặc công cụ liên quan)
+10. GParted
+11. Insomnia
+12. kubectl
+13. LaTeX
+14. Lens (có thể là công cụ Kubernetes)
+15. Miniconda
+16. Minikube
+17. Nmap và Wireshark
+18. Node.js
+19. Oh My Posh
+20. ProtonVPN
+21. PyCharm
+22. scrcpy
+23. Snap
+24. Steam
+25. Telegraph (có thể là công cụ hoặc ứng dụng liên quan)
+26. Terabox
+27. Unrar
+28. VirtualBox
+29. VLC Media Player
+30. Visual Studio Code (VSCode)
+31. Wine
+32. Podman 
+
+Các tệp `.sh` có thể là các tập lệnh cài đặt hoặc cấu hình cho các ứng dụng và công cụ tương ứng.
