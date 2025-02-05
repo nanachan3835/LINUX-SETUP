@@ -13,7 +13,7 @@ Dựa trên tên các tệp trong hình ảnh, dưới đây là danh sách các
 11. Insomnia
 12. kubectl
 13. LaTeX
-14. Lens (có thể là công cụ Kubernetes)
+14. Lens 
 15. Miniconda
 16. Minikube
 17. Nmap và Wireshark
@@ -32,6 +32,7 @@ Dựa trên tên các tệp trong hình ảnh, dưới đây là danh sách các
 30. Visual Studio Code (VSCode)
 31. Wine
 32. Podman 
-
+33. OBSIDIAN
+34. notion 
 Các tệp `.sh` có thể là các tập lệnh cài đặt hoặc cấu hình cho các ứng dụng và công cụ tương ứng.
 nhớ cài đặt thêm các database như mysql potgress và mongo + redis
